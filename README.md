@@ -1,5 +1,7 @@
 This is just a test :)
 
+These are changes from another team member
+
 
 - [Section 1: Application Overview](#section-1-application-overview)
 - [Section 2: Session Management](#section-2-session-management)
