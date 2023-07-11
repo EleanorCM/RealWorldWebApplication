@@ -1,16 +1,15 @@
+This is just a test :)
 
-* [Running examples](#running-examples)
-* Course Overview
-  - Section 1: Application Overview
-  - Section 2: Session Management
-  - Section 3: Form Validation
-  - Section 4: Framework Integration
-  - Section 5: Other Features
-* [About in28Minutes](#about-in28minutes)
-  - [Our Beliefs](#our-beliefs)
-  - [Our Approach](#our-approach)
-  - [Find Us](#useful-links)
-  - [Other Courses](#other-courses)
+
+- [Section 1: Application Overview](#section-1-application-overview)
+- [Section 2: Session Management](#section-2-session-management)
+- [Section 3: Form Validation](#section-3-form-validation)
+- [Section 4: Framework Integration](#section-4-framework-integration)
+- [Section 5: Other Features](#section-5-other-features)
+  - [About in28Minutes](#about-in28minutes)
+    - [Our Beliefs](#our-beliefs)
+    - [Our Approach](#our-approach)
+  - [About in28Minutes](#about-in28minutes-1)
 
 ### Running Examples
 - If you are downloading the zip file, unzip the file
